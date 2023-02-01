@@ -1,3 +1,3 @@
 # HeroesApp
  
-link pagina: heroesapp-alberth.netlify.app
+link pagina: https://heroesapp-alberth.netlify.app/
